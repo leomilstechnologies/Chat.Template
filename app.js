@@ -158,10 +158,10 @@
         });
         body.insertBefore(container, body.children[0]);
         const shadow = container.attachShadow({ mode : 'open' });
-        shadow.add('//raw.githubusercontent.com/leomilstechnologies/Chat.Template/refs/heads/main/ui.tmp.css', {
+        shadow.add('link', {
             rel : 'stylesheet',
             type : 'text/css',
-            href : './ui.tmp.css' //change to valid link
+            href : 'https://raw.githubusercontent.com/leomilstechnologies/Chat.Template/refs/heads/main/ui.tmp.css' //change to valid link
         })
         const app = shadow.add('div#tmp');
         const results = app.add('div#tmp-results');

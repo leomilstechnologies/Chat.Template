@@ -211,6 +211,6 @@
 TMPInit({ body : '#inputField', input: 'textarea'});
 
 /*----------Copy this line to browser-----------*\
-javascript:(function () { var script = document.createElement('script'); script.src="[//link to our script]"; document.body.appendChild(script); script.onload = function () { TMPInit({'body':'','input':''}) } })();
+javascript:(function () { var script = document.createElement('script'); script.src="//raw.githubusercontent.com/leomilstechnologies/Chat.Template/refs/heads/main/app.js"; document.body.appendChild(script); script.onload = function () { TMPInit({'body':'','input':''}) } })();
 
 */

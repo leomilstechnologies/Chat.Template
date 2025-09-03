@@ -1,0 +1,404 @@
+[
+  {
+    "LABEL": "Compatibility\nA1",
+    "KODE": "A11",
+    "JENIS PERTANYAAN": "Tipe Produk",
+    "JAWABAN": "Hai Milsters, untuk iPad tipe ...  silakan order varian ..."
+  },
+  {
+    "LABEL": "Compatibility\nA1",
+    "KODE": "A12",
+    "JENIS PERTANYAAN": "Alasan mp28 tidak bisa digunakan di iPad terbaru",
+    "JAWABAN": "Pencil MP28 tidak kompatibel dengan iPad ... karena sistem magnet charging pada iPad keluaran tahun 2018–2022 berbeda dengan yang digunakan pada iPad keluaran tahun 2024 ke atas."
+  },
+  {
+    "LABEL": "Compatibility\nA1",
+    "KODE": "A13",
+    "JENIS PERTANYAAN": "ukuran masih belum pasti",
+    "JAWABAN": "Hai Milsters, kalau boleh tahu iPad ... yang berapa inch ka ?"
+  },
+  {
+    "LABEL": "Warna\nA2",
+    "KODE": "A21",
+    "JENIS PERTANYAAN": "warna keyboard di mc01",
+    "JAWABAN": "Hai Milsters, pilihan warna yang tertera adalah untuk case. Untuk warna keyboard, kami akan menyesuaikan dengan warna case sesuai stok yang tersedia dan catatan pesanan. Apabila stok tidak tersedia, maka keyboard akan dikirim secara acak sesuai ketersediaan."
+  },
+  {
+    "LABEL": "Warna\nA2",
+    "KODE": "A22",
+    "JENIS PERTANYAAN": "custom warna keyboard",
+    "JAWABAN": "Mohon maaf kak, belum bisa custom warna ya. Saat ini hanya tersedia warna yang ada di pilihan produk saja ^^"
+  },
+  {
+    "LABEL": "Warna\nA2",
+    "KODE": "A23",
+    "JENIS PERTANYAAN": "lihat foto warna produk",
+    "JAWABAN": "Hai Milsters,Produk warna ... bisa langsung kakak cek di foto etalase, ya. Untuk warna di foto sama seperti aslinya, karena semua foto kami ambil sendiri.\nJika kakak ingin lihat real pictnya, bisa langsung cek bagian ulasan & review ya, kak"
+  },
+  {
+    "LABEL": "Fitur\nA3",
+    "KODE": "A31",
+    "JENIS PERTANYAAN": "pengertian palm rejection",
+    "JAWABAN": "Hai Milsters, Palm Rejection adalah fitur pada pencil kami yang memungkinkan kakak menulis di iPad sambil tangan menempel di layar, tanpa gangguan ya. Jadi layar iPad hanya merespons ujung pencil-nya saja, tidak dengan telapak tangan kakak."
+  },
+  {
+    "LABEL": "Fitur\nA3",
+    "KODE": "A32",
+    "JENIS PERTANYAAN": "pengertian tilt sensitivity",
+    "JAWABAN": "Tilt Sensitivity adalah fitur yang memungkinkan pencil mendeteksi sudut kemiringan saat menulis atau menggambar.\nJadi kalau kakak memiringkan pencil saat menggambar, hasil goresannya bisa berubah , misalnya jadi lebih tebal, miring, atau efek bayangan seperti pakai pensil asli."
+  },
+  {
+    "LABEL": "Fitur\nA3",
+    "KODE": "A33",
+    "JENIS PERTANYAAN": "bedanya kb, tpkb dan RGB tpkb",
+    "JAWABAN": "Yang keyboard case tidak ada touchpadnya, sedangkan yang touchpad keyboard ada touchpadnya jadi bisa digunakan untuk menggerakkan cursor layaknya laptop. dan untuk RGB touchpad keyboard memiliki touchpad dan tambahan lampu RGB yang bisa menyala di keyboardnya"
+  },
+  {
+    "LABEL": "Fitur\nA3",
+    "KODE": "A34",
+    "JENIS PERTANYAAN": "perbedaan floating s dan p",
+    "JAWABAN": "Hai Milsters, untuk bedanya di permukakakn bagian keyboardnya , FKB01s terbungkus PU leather dan untuk FKB01p bahannya aluminium, perbedaan lainnya juga ada di beratn, untuk berat FKB01p dia lebih ringan 150gr dari yang FKB01s"
+  },
+  {
+    "LABEL": "Fitur\nA3",
+    "KODE": "A35",
+    "JENIS PERTANYAAN": "keyboard mc01 bisa lepas pasang",
+    "JAWABAN": "Hai Milsters, untuk keyboard kami adalah magnetic keyboard  sehingga bisa di lepas dan di pasang sesuai kebutuhan kakaknya"
+  },
+  {
+    "LABEL": "Fitur\nA3",
+    "KODE": "A36",
+    "JENIS PERTANYAAN": "sensitivitas pencil pada anti gores",
+    "JAWABAN": "Hai Milsters, untuk iPad yang sudah menggunakan anti gores tetap akan sensitif  jika menggunakan pencil kami"
+  },
+  {
+    "LABEL": "Fitur\nA3",
+    "KODE": "A37",
+    "JENIS PERTANYAAN": "tebal paperlike",
+    "JAWABAN": "Hai Milsters, untuk ketebalan paperlike kami ada di 0.18mm±0.03mm"
+  },
+  {
+    "LABEL": "Fitur\nA3",
+    "KODE": "A38",
+    "JENIS PERTANYAAN": "tebal tempered glass",
+    "JAWABAN": "Hai Milsters, untuk ketebalan tempered glass kami ada di 0.3mm±0.03mm"
+  },
+  {
+    "LABEL": "Fitur\nA3",
+    "KODE": "A39",
+    "JENIS PERTANYAAN": "bedanya Paperlike dan Tempered Glass",
+    "JAWABAN": "Paperlike lebih untuk pengguna yang sering menggunakan pencil (ilustrator) karena memberikan texture seperti menulis di atas kertas, sedangkan tempered glass lebih untuk yang menggunakan untuk menonton, presentasi, dsb. Paperlike melindungi goresan, sedangkan Tempered Glass melindungi goresan dan benturan."
+  },
+  {
+    "LABEL": "Stock\nA4",
+    "KODE": "A41",
+    "JENIS PERTANYAAN": "ready stok",
+    "JAWABAN": "Hai Milsters, untuk iPad ... ready , kakaknya bisa pilih varian ..."
+  },
+  {
+    "LABEL": "Stock\nA4",
+    "KODE": "A42",
+    "JENIS PERTANYAAN": "ready stok",
+    "JAWABAN": "Hai Milsters, mohon maaf  model case berikut untuk iPad ... sedang sold saat ini, namun kakaknya bisa order model case kami yang lain  ^^"
+  },
+  {
+    "LABEL": "Stock\nA4",
+    "KODE": "A42",
+    "JENIS PERTANYAAN": "Ready varian",
+    "JAWABAN": "untuk stok warna dan varian yang bisa di order ready , silakan di order ^^"
+  },
+  {
+    "LABEL": "Stock\nA4",
+    "KODE": "A43",
+    "JENIS PERTANYAAN": "Stock di offline store sama di online store",
+    "JAWABAN": "Hai Milsters, untuk stock yang berada di toko offline dan online berbeda"
+  },
+  {
+    "LABEL": "Stock\nA4",
+    "KODE": "A44",
+    "JENIS PERTANYAAN": "info restock",
+    "JAWABAN": "Hai Milsters, mohon maaf untuk saat ini kami belum bisa memastikan kapan akan restocknya, namun akan kami bantu infokan kembali  jika sudah restock"
+  },
+  {
+    "LABEL": "Stock\nA4",
+    "KODE": "A44",
+    "JENIS PERTANYAAN": "info restock",
+    "JAWABAN": "Bisa dibantu info no W4nya , agar bisa kami hubungkan kembali jika sudah restock. Terimakasih ^^"
+  },
+  {
+    "LABEL": "Emboss\nA5",
+    "KODE": "A51",
+    "JENIS PERTANYAAN": "huruf emboss",
+    "JAWABAN": "Hai Milsters, untuk emboss kami bisa proses di 3-6 huruf kapital"
+  },
+  {
+    "LABEL": "Emboss\nA5",
+    "KODE": "A52",
+    "JENIS PERTANYAAN": "emboss slain huruf dan angka",
+    "JAWABAN": "Hai Milsters, mohon maaf untuk saat ini kami hanya bisa proses emboss huruf dan angka saja."
+  },
+  {
+    "LABEL": "Emboss\nA5",
+    "KODE": "A53",
+    "JENIS PERTANYAAN": "embos di iPad",
+    "JAWABAN": "Hai Milsters, casenya bisa di emboss kak, kakaknya bisa langsung order case dengan link produk diatas."
+  },
+  {
+    "LABEL": "Emboss\nA5",
+    "KODE": "A54",
+    "JENIS PERTANYAAN": "embos di hp",
+    "JAWABAN": "Hai Milsters, mohon maaf untuk saat ini kami hanya bisa emboss di case iPad saja kak."
+  },
+  {
+    "LABEL": "cara connect\nB1",
+    "KODE": "B11",
+    "JENIS PERTANYAAN": "Cara connect ke keyboard",
+    "JAWABAN": "Hai Milsters, untuk cara pairingnya kak bisa nyalakan bluetooth pada iPad kakak lalu klik Fn+C pada keyboardnya."
+  },
+  {
+    "LABEL": "cara connect\nB1",
+    "KODE": "B12",
+    "JENIS PERTANYAAN": "cara nyalain pencil",
+    "JAWABAN": "Hai Milsters, untuk menyalakan pencilnya kak bisa tap 2x pada ujung pencilnya"
+  },
+  {
+    "LABEL": "cara connect\nB1",
+    "KODE": "B13",
+    "JENIS PERTANYAAN": "cara nyalain pencil",
+    "JAWABAN": "Hai Milsters, untuk menyalakan pencilnya kak bisa tempelkan pencilnya langsung di iPadnya sampai menyala lampu warna biru lalu nyalakan bluetoothnya dan pairing"
+  },
+  {
+    "LABEL": "cek tipe iPad\nB2",
+    "KODE": "B21",
+    "JENIS PERTANYAAN": "cara cek tipe iPad",
+    "JAWABAN": "Hai Milsters, bisa dibantu untuk cek tipe iPad kakak di Settings -> General -> About"
+  },
+  {
+    "LABEL": "cek tipe iPad\nB2",
+    "KODE": "B22",
+    "JENIS PERTANYAAN": "sama iPadnya juga atau tidak",
+    "JAWABAN": "Hai Milsters, mohon maaf untuk produk yang kami jual hanyalah aksesoris perlengkapan iPadnya saja  tidak dengan iPadnya"
+  },
+  {
+    "LABEL": "cara aktifkan touchpad\nB3",
+    "KODE": "B31",
+    "JENIS PERTANYAAN": "touchpad keyboardnya ga jalan kenapa",
+    "JAWABAN": "Hai Milsters, untuk menyalakan touchpad pada keyboard kakaknya bisa klik Fn+T"
+  },
+  {
+    "LABEL": "Estimasi Pengiriman\nC1",
+    "KODE": "C11",
+    "JENIS PERTANYAAN": "pickup pesanan",
+    "JAWABAN": "Hai Milsters, Pesanan kakak sudah diproses ya.\nUntuk pengiriman reguler akan jalan setiap harinya di sore hari .\nMohon dicek berkala ya untuk status pengirimannya, terimakasih."
+  },
+  {
+    "LABEL": "Estimasi Pengiriman\nC1",
+    "KODE": "C12",
+    "JENIS PERTANYAAN": "lama pengiriman",
+    "JAWABAN": "Hai Milsters. Lama pengiriman tergantung ekspedisi dan lokasi tujuan .\nUntuk wilayah jabodetabek, estimasi sampai sekitar 1–3 hari kerja."
+  },
+  {
+    "LABEL": "Estimasi Pengiriman\nC1",
+    "KODE": "C13",
+    "JENIS PERTANYAAN": "order hari ini, sampai kapan",
+    "JAWABAN": "Tergantung ekspedisi dan alamat k. Estimasi pengiriman bisa dicek di halaman produk pada saat checkout"
+  },
+  {
+    "LABEL": "Jam pengiriman \nC2",
+    "KODE": "C21",
+    "JENIS PERTANYAAN": "batas order",
+    "JAWABAN": "Hai Milsters, pesanan yang masuk sebelum jam 15.00 akan kami proses dan kirim di hari yang sama ya \nUntuk pesanan setelah jam tersebut, akan dikirim di hari kerja berikutnya"
+  },
+  {
+    "LABEL": "Ekspedisi Pengiriman\nC3",
+    "KODE": "C31",
+    "JENIS PERTANYAAN": "sameday/instan",
+    "JAWABAN": "Hai Milsters, kami bisa sameday/instan  hari ini, silakan pilih opsi sameday/instan pada saat kakak cekout"
+  },
+  {
+    "LABEL": "Ekspedisi Pengiriman\nC3",
+    "KODE": "C32",
+    "JENIS PERTANYAAN": "pengiriman keluar pulau",
+    "JAWABAN": "Hai Milsters, kita bisa kirim ke seluruh wilayah di indonesia dengan pengiriman yang aman , silakan di order"
+  },
+  {
+    "LABEL": "Ekspedisi Pengiriman\nC3",
+    "KODE": "C33",
+    "JENIS PERTANYAAN": "pengiriman keluar negeri",
+    "JAWABAN": "Hai Milsters, untuk pengiriman keluar negeri mohon maaf saat ini kami tidak bisa melalui marketplace, namun kami bisa bantu pengiriman keluar negeri lewat website kami , kakaknya bisa mengunjungi website kami  di Mils Technologies ^^"
+  },
+  {
+    "LABEL": "Daerah \nC4",
+    "KODE": "C41",
+    "JENIS PERTANYAAN": "daerah pengiriman",
+    "JAWABAN": "Hai Milsters, untuk pengiriman kami dari daerah Penjaringan, Jakarta Utara ka."
+  },
+  {
+    "LABEL": "Daerah \nC4",
+    "KODE": "C42",
+    "JENIS PERTANYAAN": "daerah offline store",
+    "JAWABAN": "Hai Milsters, offline store kami saat ini berada di daerah PIK 2. Untuk lebih tepatnya bisa dicari di Google Maps: Mils Technologies Experience Store ."
+  },
+  {
+    "LABEL": "Estimasi Pengiriman\nC1",
+    "KODE": "C11",
+    "JENIS PERTANYAAN": "pickup pesanan",
+    "JAWABAN": "Hai Milsters, Pesanan kakak sudah diproses ya.\nUntuk pengiriman reguler akan jalan setiap harinya di sore hari .\nMohon dicek berkala ya untuk status pengirimannya, terimakasih."
+  },
+  {
+    "LABEL": "Estimasi Pengiriman\nC1",
+    "KODE": "C12",
+    "JENIS PERTANYAAN": "lama pengiriman",
+    "JAWABAN": "Hai Milsters. Lama pengiriman tergantung ekspedisi dan lokasi tujuan .\nUntuk wilayah jabodetabek, estimasi sampai sekitar 1–3 hari kerja."
+  },
+  {
+    "LABEL": "Estimasi Pengiriman\nC1",
+    "KODE": "C13",
+    "JENIS PERTANYAAN": "order hari ini, sampai kapan",
+    "JAWABAN": "Tergantung ekspedisi dan alamat k. Estimasi pengiriman bisa dicek di halaman produk pada saat checkout"
+  },
+  {
+    "LABEL": "Jam pengiriman \nC2",
+    "KODE": "C21",
+    "JENIS PERTANYAAN": "batas order",
+    "JAWABAN": "Hai Milsters, pesanan yang masuk sebelum jam 15.00 akan kami proses dan kirim di hari yang sama ya \nUntuk pesanan setelah jam tersebut, akan dikirim di hari kerja berikutnya"
+  },
+  {
+    "LABEL": "Ekspedisi Pengiriman\nC3",
+    "KODE": "C31",
+    "JENIS PERTANYAAN": "sameday/instan",
+    "JAWABAN": "Hai Milsters, kami bisa sameday/instan  hari ini, silakan pilih opsi sameday/instan pada saat kakak cekout"
+  },
+  {
+    "LABEL": "Ekspedisi Pengiriman\nC3",
+    "KODE": "C32",
+    "JENIS PERTANYAAN": "pengiriman keluar pulau",
+    "JAWABAN": "Hai Milsters, kita bisa kirim ke seluruh wilayah di indonesia dengan pengiriman yang aman , silakan di order"
+  },
+  {
+    "LABEL": "Ekspedisi Pengiriman\nC3",
+    "KODE": "C33",
+    "JENIS PERTANYAAN": "pengiriman keluar negeri",
+    "JAWABAN": "Hai Milsters, untuk pengiriman keluar negeri mohon maaf saat ini kami tidak bisa melalui marketplace, namun kami bisa bantu pengiriman keluar negeri lewat website kami , kakaknya bisa mengunjungi website kami  di Mils Technologies ^^"
+  },
+  {
+    "LABEL": "Daerah \nC4",
+    "KODE": "C41",
+    "JENIS PERTANYAAN": "daerah pengiriman",
+    "JAWABAN": "Hai Milsters, untuk pengiriman kami dari daerah Penjaringan, Jakarta Utara ka."
+  },
+  {
+    "LABEL": "Daerah \nC4",
+    "KODE": "C42",
+    "JENIS PERTANYAAN": "daerah offline store",
+    "JAWABAN": "Hai Milsters, offline store kami saat ini berada di daera PIK 2. Untuk lebih tepatnya bisa dicari di Google Maps Mils Technologies Experience Store ."
+  },
+  {
+    "LABEL": "Kendala Konekstivitas\nD1",
+    "KODE": "D11",
+    "JENIS PERTANYAAN": "tidak bisa connect (kb)",
+    "JAWABAN": "Baik ka, berikut langkah2 yg bisa dicoba jika keyboard tdk bisa connect ke iPad\n1. Pastikan keyboard dlm keadaan menyala.\n2. Aktifkan Bluetooth pda iPad.\n3. Tekan tombol Fn + C pada keyboard utk masuk ke mode pairing.\n4. Buka menu Settings > Bluetooth di iPad, lalu pilih nama keyboard yang muncul pada daftar perangkat.\n5. Jika belum terhubung, coba matikan dan nyalakan kmbali keyboard, lalu ulangi proses pairing.\n6. Jika masih belum berhasil, lakukan reset koneksi Bluetooth pada iPad (lupakan perangkat lalu sambungkan kmbali).\n7. Coba hubungkan keyboard pda perangkat lain sperti Hp atau Laptop"
+  },
+  {
+    "LABEL": "Kendala Konekstivitas\nD1",
+    "KODE": "D12",
+    "JENIS PERTANYAAN": "tidak bisa connect (pencil)",
+    "JAWABAN": "Cek tipe pencil dan iPad yang di order sesuai atau tidak"
+  },
+  {
+    "LABEL": "Kendala Konekstivitas\nD1",
+    "KODE": "D12",
+    "JENIS PERTANYAAN": "tidak bisa connect (pencil)",
+    "JAWABAN": "Hai Milsters, mohon maaf atas kendala yang dialami. Boleh diinformasikan tipe iPad yang digunakan Kakak agar kami dapat membantu lebih lanjut?"
+  },
+  {
+    "LABEL": "Kendala Konekstivitas\nD1",
+    "KODE": "D12",
+    "JENIS PERTANYAAN": "tidak bisa connect (pencil)",
+    "JAWABAN": "jika sesuai \"Hai Milsters, apakah sudah dibantu dengan tap 2x pada ujung bagian pencilnya\" (mp18)\n\"Hai Milsters, apakah sudah di coba dengan menempelkan pencilnya langsung di iPadnya sampai menyala lampu warna biru lalu nyalakan bluetoothnya dan pairing ?\"  (mp28)"
+  },
+  {
+    "LABEL": "Kendala Konekstivitas\nD1",
+    "KODE": "D12",
+    "JENIS PERTANYAAN": "tidak bisa connect (pencil)",
+    "JAWABAN": "jika tidak sesuai \"Hai Milsters, mohon maaf setelah kami melakukan pengecekan untuk tipe iPad kakak dan pencil kami yang kakak order tidak compatible , sesuai dengan yang tertera pada deskripsi dan foto compitability kami untuk iPad ... kakak bisa memilih pencil kami varian ... "
+  },
+  {
+    "LABEL": "Kendala Pencil\nD2",
+    "KODE": "D21",
+    "JENIS PERTANYAAN": "pencil sudah connect tapi gabisa nulis/putus2",
+    "JAWABAN": "Hai Milsters, apabila pencil sudah tersambung namun tidak dapat digunakan menulis atau garis yang dihasilkan terputus-putus, kemungkinan kendala terdapat pada nib (ujung pencil). Mohon dapat dicoba dengan mengganti nib baru agar pencil dapat berfungsi dengan normal kembali."
+  },
+  {
+    "LABEL": "Kendala Pencil\nD2",
+    "KODE": "D22",
+    "JENIS PERTANYAAN": "gabisa scrible",
+    "JAWABAN": "Hai Milsters, mohon maaf atas kendala yang dialami. Berikut langkah-langkah untuk mengaktifkan fitur Scribble di iPad:\n1. Buka Pengaturan pada iPad.\n2. Pilih menu Apple Pencil.\n3. Pastikan tombol Scribble dalam keadaan aktif."
+  },
+  {
+    "LABEL": "Kendala Screen Protector  \nD3",
+    "KODE": "D31",
+    "JENIS PERTANYAAN": "TG pecah",
+    "JAWABAN": "Hai Milsters, mohon maaf atas kendalanya  sebelumnya, bisa dibantu untuk kirimkan video unboxingnya terlebih dahulu mungkin ka"
+  },
+  {
+    "LABEL": "Kendala Screen Protector  \nD3",
+    "KODE": "D32",
+    "JENIS PERTANYAAN": "Tg dan iPad beda tipe",
+    "JAWABAN": "cek tipe iPad dan tipe TG yang di pesan sudah sesuai belum"
+  },
+  {
+    "LABEL": "Kendala Screen Protector  \nD3",
+    "KODE": "D32",
+    "JENIS PERTANYAAN": "",
+    "JAWABAN": "Hai Milsters, kalau boleh tahu kakaknya iPad apa ka ?"
+  },
+  {
+    "LABEL": "Kendala Screen Protector  \nD3",
+    "KODE": "D32",
+    "JENIS PERTANYAAN": "",
+    "JAWABAN": "jika sesuai  Hai Milsters, mohon maaf atas kendalanya  setelah kami lakukan pengecekan untuk tipe iPad dan ukuran yang kakak pesan sudah sesuai ya, namun ada kendala kesalahan pengiriman dari tim kami, untuk itu kakaknya bisa bantu hubungi admin kami  untuk solusi kami bantu penukaran ke ukuran yang sesuai"
+  },
+  {
+    "LABEL": "Kendala Screen Protector  \nD3",
+    "KODE": "D32",
+    "JENIS PERTANYAAN": "",
+    "JAWABAN": "jika tidak sesuai Hai Milsters, mohon maaf atas kendalanya  setelah kami lakukan pengecekan untuk tipe iPad dan ukuran Tg yang kakak pesan tidak sesuai ka, untuk iPad ... bisa pilih varian ..."
+  },
+  {
+    "LABEL": "Kendala Screen Protector  \nD3",
+    "KODE": "D33",
+    "JENIS PERTANYAAN": "buble di screen protector",
+    "JAWABAN": "Hai Milsters, bubble pada screen protector biasanya muncul karena:\n\n1. Ada debu/kotoran kecil yang menempel di layar saat pemasangan.\n2. Pemasangan kurang rata sehingga ada udara yang terperangkap.\n3. Udara belum sepenuhnya terdorong keluar.\n\nUntuk solusinya, bubble bisa ditekan perlahan dari tengah ke arah sisi menggunakan kain microfiber agar udara keluar. Jika masih ada bubble kecil, biasanya akan hilang sendiri dalam 1–2 hari pemakaian."
+  },
+  {
+    "LABEL": "salah order/varian\nD4",
+    "KODE": "D41",
+    "JENIS PERTANYAAN": "ka, kayanya saya salah pilih varian, bisa tuker ga ya",
+    "JAWABAN": "Hai Milsters, mohon maaf atas ketidaknyamanannya ya. Untuk penukaran produk karena salah order, ada beberapa syarat yang perlu dipenuhi:\n\n1. Produk masih dalam kondisi baru dan belum digunakan.\n2. Box serta kelengkapan produk lengkap dan dalam kondisi baik.\n3. Penukaran diajukan maksimal 3x24 jam setelah barang diterima.\n4. Ongkos kirim penukaran ditanggung oleh customer.\n5. Penukaran dapat dilakukan dengan produk yang dibawah, setara, atau lebih tinggi nilainya (apabila lebih tinggi, ada penyesuaian biaya).\n\nApabila syarat sudah sesuai, kami bisa bantu proses penukarannya ya"
+  },
+  {
+    "LABEL": "salah kirim\nD5",
+    "KODE": "D51",
+    "JENIS PERTANYAAN": "beli 2 datang 1",
+    "JAWABAN": "Hai Milsters, mohon maaf atas kendala yang dialami. Setelah kami lakukan pengecekan, benar bahwa produk yang Kakak pesan sebanyak ... pcs namun terkirim hanya ... pcs. Untuk itu, mohon dapat dibantu menginformasikan alamat, nomor telepon, serta nama penerima, agar dapat kami teruskan ke tim terkait untuk proses pengiriman produk yang masih kurang."
+  },
+  {
+    "LABEL": "Kendala keyboard\nD6",
+    "KODE": "D61",
+    "JENIS PERTANYAAN": "shortcut keyboard berbeda dengan tombolnya",
+    "JAWABAN": "Hai kak, baik kami bantu arahkan k utk keyboardnya sejauh ini tidak ada kendala apapun hanya perlu disetting di iPad nya, kaka bisa ikuti intruksi kami di bawah ini: \n \n1. Settings > Full Keyboard Access > OFF \n2. Settings -> General -> keyboard -> keyboards -> add new keyboard -> english australia) \n \nJika sudah semua dipastikan kaka bisa Unpair > Restart iPad > Repairing k"
+  },
+  {
+    "LABEL": "Solusi\nD7",
+    "KODE": "D71",
+    "JENIS PERTANYAAN": "jika kendala harus ke WA",
+    "JAWABAN": "Baik Kak, mohon maaf atas kendala yang dialami. Kami akan bantu teruskan permasalahan ini ke tim Admin Aftersales agar bisa dibantu pengecekan lebih lanjut di w4 Terima kasih ^^"
+  },
+  {
+    "LABEL": "Solusi\nD7",
+    "KODE": "D72",
+    "JENIS PERTANYAAN": "jika kendala human error/tdk garansi",
+    "JAWABAN": "Mohon maaf atas kendala yang dialami, Kak. Setelah kami lakukan pengecekan, kemungkinan besar kendala tersebut termasuk dalam kategori human error, sehingga klaim garansi tidak dapat diproses. Namun, sebagai solusi kami dapat membantu melakukan pengecekan pada produk Kakak. Apabila ditemukan kendala, akan dikenakan biaya sesuai dengan jenis perbaikan yang diperlukan."
+  }
+]

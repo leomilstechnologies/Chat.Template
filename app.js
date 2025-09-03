@@ -158,7 +158,7 @@
         });
         body.insertBefore(container, body.children[0]);
         const shadow = container.attachShadow({ mode : 'open' });
-        shadow.add('link', {
+        shadow.add('//raw.githubusercontent.com/leomilstechnologies/Chat.Template/refs/heads/main/ui.tmp.css', {
             rel : 'stylesheet',
             type : 'text/css',
             href : './ui.tmp.css' //change to valid link

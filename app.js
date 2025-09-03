@@ -126,7 +126,7 @@
     
     //load temp chat data
     async function TMPInit(attach) {
-        const tmpSource = '../chatTemplate.json'; //change to valid link
+        const tmpSource = '//raw.githubusercontent.com/leomilstechnologies/Chat.Template/refs/heads/main/chatTemplate.json'; //change to valid link
         async function loadTmp() {
             let d = await fetch(tmpSource)
             .then((response)=>response.json())
